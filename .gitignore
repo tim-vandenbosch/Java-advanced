@@ -10,3 +10,6 @@ OEFENINGEN/2_junit/CodeUnderTest/target
 OEFENINGEN/maven/ExecutableJar/.idea
 OEFENINGEN/3_jdbc/jdbc_db4free/.idea
 OEFENINGEN/3_jdbc/jdbc_db4free/target
+*.project
+*.classpath
+*.prefs
